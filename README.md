@@ -309,7 +309,7 @@ Top 3 Emotions with Confidence Scores
 
 ## Prediction Output
 
-![Prediction Output](screenshots/output2jpeg)
+![Prediction Output](screenshots/output2.jpeg)
 
 ## Model Evaluation
 
