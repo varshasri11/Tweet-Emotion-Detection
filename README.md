@@ -307,22 +307,13 @@ Top 3 Emotions with Confidence Scores
 
 # Project Results
 
-## Output1(Prediction)
+## Prediction Output
 
-![Prediction Output](screenshots/prediction_output.png)
+![Prediction Output](screenshots/output1.png)
 
----
+## Model Evaluation
 
-
-## SVM Evaluation Report
-
-![SVM Report](screenshots/svm_report.png)
-
----
-
-## Random Forest Evaluation Report
-
-![Random Forest Report](screenshots/rf_report.png)
+![Model Evaluation](screenshots/output2.jpeg)
 
 ---
 
