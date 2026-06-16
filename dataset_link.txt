@@ -1,0 +1,13 @@
+Dataset Information
+
+Dataset Name:
+Custom Tweet Emotion Dataset
+
+Source:
+Self-created dataset developed as part of the project.
+
+Description:
+The dataset contains tweets annotated with multiple emotion labels including sarcasm, joy, trust, fear, surprise, sadness, disgust, anger, and anticipation.
+
+Note:
+The dataset is not publicly available and was created specifically for this project. Therefore, it has not been included in this repository.
